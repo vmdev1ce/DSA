@@ -1,0 +1,5 @@
+Array Binary Tree
+1	3	2	
+	5	7	
+		6	
+		8	
